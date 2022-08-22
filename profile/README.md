@@ -11,4 +11,4 @@ Interested in a career at subshell? [Join our team!](https://subshell.com/jobs/)
 👋  [@TeamSubshell](https://twitter.com/TeamSubshell)
 
 ***
-subshell's projects adopt the [Contributor Covenant](code_of_conduct.md) Code of Conduct.
+subshell's projects adopt the [Contributor Covenant](/profile/code_of_conduct.md) Code of Conduct.
